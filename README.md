@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Eyad-git (eyad basem)
+- 👀 I’m interested in IOT(internet of things)
+- 🌱 I’m currently learning c++ and c and IOT(internet of things)
+- 📫 How to reach me e_basem2@hotmail.com
