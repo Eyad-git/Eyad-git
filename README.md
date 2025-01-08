@@ -1,4 +1,9 @@
 - 👋 Hi, I’m @Eyad-git (eyad basem)
-- 👀 I’m interested in IOT(internet of things)
-- 🌱 I’m currently learning c++ and c and IOT(internet of things)
-- 📫 How to reach me e_basem2@hotmail.com
+- 👀 I’m interested in AI(Artificial Intelligence),IOT(internet of things), Software Development, Web Development, Game Development
+- 🌱 I’m currently a Coventry university Student studying a Bsc of Cybersecurity and Ethical Hacking.
+- 📫 How to reach me:
+         ea2400153@tkh.edu.eg
+         e_basem2@hotmail.com
+         e16basem@gmail.com
+
+  
